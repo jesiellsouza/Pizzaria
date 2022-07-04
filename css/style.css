@@ -158,7 +158,6 @@ body {
     justify-content: left;
     width: 100%;
     padding: 10px;
-    gap: 5px;
     flex-wrap: wrap;
     background-image: url(../img/fundo.jpg);
     background-repeat: no-repeat;
